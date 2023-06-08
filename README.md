@@ -1,2 +1,2 @@
 # simple-clock
-Basic clock build using Javascript 
+Basic clock build using HTML, CSS AND JAVASCRIPT
